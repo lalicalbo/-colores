@@ -1,0 +1,18 @@
+.tab{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    border-collapse: collapse;
+}
+tr,td{
+border: 2px solid black;
+}
+.l{
+background-color: yellow;
+}
+.m{
+background-color: blue;
+}
+.s{
+   background-color: red; 
+}
